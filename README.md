@@ -28,7 +28,7 @@
 
 5. **Access Application**: Access the running application at `http://localhost:8080`.
 
-6. **Explore Swagger Documentation**: Access the Swagger UI at `http://localhost:8080/swagger-ui/`.
+6. **Explore Swagger Documentation**: Access the Swagger UI at `http://localhost:8080/swagger-ui.html/`.
 
 ![screenshot](src/main/resources/static/swagger.png)
 
